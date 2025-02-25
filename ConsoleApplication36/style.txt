@@ -1,0 +1,33 @@
+<style>
+	h1 {text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; color:darkcyan; font-size: 100px;}
+	h2 {text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif;  color:darkcyan; font-size: 50px;}
+	table { width: 1500px; text-align: center; padding-left: 100px; }
+	tr { background-color: rgb(191, 216, 216); text-align: center; padding-right: 100px; }
+	td { font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: xx-large; border-radius: 50%; color: darkcyan; padding-right: 100px; padding-left: 100px; padding-top: 30px; padding-bottom: 30px;
+	text-align: center;}
+	td:nth-child(3) { font-size: small; padding-top: 100px; padding-bottom: 100px; }​
+	{}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: darkcyan;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(4, 77, 77);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: rgb(3, 44, 44);
+  background-color: transparent;
+  text-decoration: none;
+}
+</style>

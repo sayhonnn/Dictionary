@@ -1,0 +1,9 @@
+﻿  ConsoleApplication36.cpp
+C:\Users\mmasek\source\repos\ConsoleApplication36\ConsoleApplication36\Dictionary.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mmasek\source\repos\ConsoleApplication36\ConsoleApplication36\Dictionary.h(75,22): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 253 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication36.vcxproj -> C:\Users\mmasek\source\repos\ConsoleApplication36\Release\ConsoleApplication36.exe
